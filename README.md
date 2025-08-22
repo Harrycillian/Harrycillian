@@ -1,16 +1,19 @@
-## Hi there 👋
+**About Me**
+• BSIT Student at Laguna State Polytechnic University - Santa Cruz Campus
+• Currently learning Python, Javascript, Flask, HTML, CSS, SQL, Flutter, Dart
+• Goal: To become a skilled Web and Mobile Application Developer or a Web Designer
+• Interested in Software/Web Development and UI/UX Design
 
-<!--
-**Harrycillian/Harrycillian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Skills**
+• Languages: Python, Javascript, JAVA, HTML, CSS, SQL, Dart,  C#
+• Frameworks/Tools: Flask, Flutter, Git, GitHub, .NET
+• Other: Database Management, Web Development Basics, English Creative Writing
 
-Here are some ideas to get you started:
+**Current Projects**
+• Learning Git and GitHub for version control
+• Developing practice projects using Python, Flask, and HTML
+• Currently developing a capstone project LGU website
+• Creating small apps as portfolio projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Connect with Me**
+• Email: hrrymtty@gmail.com
