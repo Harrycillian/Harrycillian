@@ -1,4 +1,4 @@
-**About Me**
+★ **About Me**
 
   • BSIT Student at Laguna State Polytechnic University - Santa Cruz Campus
   • Currently learning Python, Javascript, Flask, HTML, CSS, SQL, Flutter, Dart
@@ -7,14 +7,15 @@
 
 
 
-**Skills**
+★ **Skills**
+
   • Languages: Python, Javascript, JAVA, HTML, CSS, SQL, Dart,  C#
   • Frameworks/Tools: Flask, Flutter, Git, GitHub, .NET
   • Other: Database Management, Web Development Basics, English Creative Writing
 
 
 
-**Current Projects**
+★ **Current Projects**
 
   • Learning Git and GitHub for version control
   • Developing practice projects using Python, Flask, and HTML
@@ -22,6 +23,6 @@
   • Creating small apps as portfolio projects
 
 
-**Connect with Me**
+★ **Connect with Me**
 
   • Email: hrrymtty@gmail.com
