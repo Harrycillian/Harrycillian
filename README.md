@@ -65,4 +65,4 @@
 
 ## Connect with Me  
 - **Email:** [hrrymtty@gmail.com](mailto:hrrymtty@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/joshua-raphael-dueñas)
+- **LinkedIn:** [linkedin.com/in/joshua-raphael-dueñas](https://www.linkedin.com/in/joshua-raphael-dueñas)
