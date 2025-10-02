@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Harry</h1>
+<h1 align="center">Joshua Raphael Dueñas</h1>
 <h3 align="center">BSIT Student | Aspiring Web & Mobile Developer | UI/UX Enthusiast</h3>
 
 ---
