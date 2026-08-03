@@ -1,4 +1,4 @@
-<h1 align="center">Joshua Raphael Dueñas</h1>
+<h1 align="center" style="font-family: Times New Roman">Joshua Raphael Dueñas</h1>
 <h3 align="center">BSIT Student | Aspiring Web & Mobile Application Developer | UI/UX Enthusiast</h3>
 
 ---
