@@ -1,5 +1,5 @@
 <h1 align="center">Joshua Raphael Dueñas</h1>
-<h3 align="center">BSIT Student | Aspiring Web & Mobile Developer | UI/UX Enthusiast</h3>
+<h3 align="center">BSIT Student | Aspiring Web & Mobile Application Developer | UI/UX Enthusiast</h3>
 
 ---
 
