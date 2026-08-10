@@ -45,6 +45,26 @@
     <img src="https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=white" />
   </div>
 
+  <!-- Technical Skills -->
+  <div style="flex: 1; min-width: 250px; margin: 10px;">
+    <h3>Technical Skills</h3>
+
+    <p>
+      Web Development<br>
+      Full-Stack Development<br>
+      Software Development<br>
+      Mobile Application Development<br>
+      REST API Development<br>
+      Basic Game Development<br>
+      Object-Oriented Programming<br>
+      Agentic AI Development<br>
+      Database Management<br>
+      UI/UX Design<br>
+      Responsive Web Design<br>
+      Data Entry & Encoding
+    </p>
+  </div>
+
   <!-- Tools & Platforms -->
   <div style="flex: 1; min-width: 250px; margin: 10px;">
     <h3>Tools & Platforms</h3>
@@ -69,32 +89,12 @@
   <div style="flex: 1; min-width: 250px; margin: 10px;">
     <h3>Agentic AI Development Tools</h3>
 
-    <img src="https://img.shields.io/badge/-Claude%20Code-D97757?logo=anthropic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Claude%20Code-D97757?logo=claude&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=white" />
     <img src="https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white" />
     <img src="https://img.shields.io/badge/-Codex-000000?logo=openai&logoColor=white" />
   </div>
-
-    <!-- Technical Skills -->
-  <div style="flex: 1; min-width: 250px; margin: 10px;">
-    <h3>Technical Skills</h3>
-
-    <p>
-      Web Development<br>
-      Full-Stack Development<br>
-      Software Development<br>
-      Mobile Application Development<br>
-      REST API Development<br>
-      Basic Game Development<br>
-      Object-Oriented Programming<br>
-      Agentic AI Development<br>
-      Database Management<br>
-      UI/UX Design<br>
-      Responsive Web Design<br>
-      Data Entry & Encoding
-    </p>
-  </div>
-
+  
   <!-- Current Projects -->
   <div style="flex: 1; min-width: 250px; margin: 10px;">
     <h3>Current Projects</h3>
