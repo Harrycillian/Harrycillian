@@ -1,12 +1,12 @@
 <h1 align="center" style="font-family: Times New Roman">Joshua Raphael Dueñas</h1>
-<h3 align="center">BSIT Student | Aspiring Web & Mobile Application Developer | UI/UX Enthusiast</h3>
+<h3 align="center">Aspiring Web & Mobile Application Developer | UI/UX Design Enthusiast</h3>
 
 ---
 
 ## About Me  
-- BSIT Student at **Laguna State Polytechnic University - Santa Cruz Campus**  
-- Currently learning **Python, Javascript, Flask, HTML, CSS, SQL, Flutter, Dart**  
-- Goal: Become a skilled **Web & Mobile Application Developer** or **Web Designer**  
+- Graduated BSIT at **Laguna State Polytechnic University - Santa Cruz Campus**  
+- Currently learning **Python, Javascript, PHP, Flask, HTML, CSS, SQL, Flutter, Dart**  
+- Goal: Become a skilled **Full-Stack Web & Mobile Application Developer** or **Web Designer**  
 - Interested in **Software/Web Development** and **UI/UX Design**
 
 ---
@@ -43,7 +43,7 @@
     <h3>Other Skills</h3>
     <ul>
       <li>Database Management</li>
-      <li>Web Development Basics</li>
+      <li>Web Development</li>
       <li>English Creative Writing</li>
     </ul>
   </div>
@@ -54,8 +54,8 @@
     <ul>
       <li>Learning <b>Git & GitHub</b> for version control</li>
       <li>Developing practice projects with <b>Python + Flask + HTML</b></li>
-      <li>Building a <b>Capstone Project (LGU Website)</b></li>
-      <li>Creating small <b>apps and portfolio projects</b></li>
+      <li>Building a <b>Capstone Project</b></li>
+      <li>Creating <b>apps and portfolio projects</b></li>
     </ul>
   </div>
 
@@ -64,5 +64,6 @@
 ---
 
 ## Connect with Me  
-- **Email:** [hrrymtty@gmail.com](mailto:hrrymtty@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/joshua-raphael-dueñas](https://www.linkedin.com/in/joshua-raphael-dueñas)
+- **Email:** [joshuaduenas.work@gmail.com](mailto:joshuaduenas.work@gmail.com)  
+- **LinkedIn:** [www.linkedin.com/in/joshua-duenas](https://www.linkedin.com/in/joshua-duenas)
+- **JobStreet:** [ph.jobstreet.com/profiles/joshuaraphael-dueas-txslHkPc80](https://ph.jobstreet.com/profiles/joshuaraphael-dueas-txslHkPc80)
