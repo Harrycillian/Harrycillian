@@ -3,6 +3,11 @@
 
 ---
 
+##Professional Summary
+Information Technology graduate specializing in Web and Mobile Application Development, with hands-on experience in full-stack web development, mobile application development, and UI/UX design. Skilled in Python, JavaScript, Flutter, Flask, MySQL, and REST API development, with experience building practical web and mobile applications. Adaptable, detail-oriented, and eager to contribute technical skills while continuing to grow as a developer.
+
+---
+
 ## About Me
 - Graduated BSIT at **Laguna State Polytechnic University - Santa Cruz Campus**
 - Currently learning **Python, JavaScript, PHP, Flask, HTML, CSS, SQL, Flutter, Dart**
