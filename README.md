@@ -16,7 +16,7 @@ Information Technology graduate specializing in Web and Mobile Application Devel
 
 ---
 
-## Skills & Projects
+## Skills
 
 ### Programming Languages
 <div style="flex: 1; min-width: 250px; margin: 10px;">
