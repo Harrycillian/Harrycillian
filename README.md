@@ -77,3 +77,4 @@ Web Development | Full-Stack Development | Software Development | Mobile Applica
 - **Email:** [joshuaduenas.work@gmail.com](mailto:joshuaduenas.work@gmail.com)
 - **LinkedIn:** [www.linkedin.com/in/joshua-duenas](https://www.linkedin.com/in/joshua-duenas)
 - **JobStreet:** [ph.jobstreet.com/profiles/joshuaraphael-dueas-txslHkPc80](https://ph.jobstreet.com/profiles/joshuaraphael-dueas-txslHkPc80)
+- **UpWork:** [www.upwork.com/freelancers/~01ba316ba2a2e17025?mp_source=share](https://www.upwork.com/freelancers/~01ba316ba2a2e17025?mp_source=share)
