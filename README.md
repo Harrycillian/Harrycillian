@@ -11,7 +11,7 @@ Information Technology graduate specializing in Web and Mobile Application Devel
 
 ---
 
-<h2 style="font-family: Helvetica, Arial, sans-serif;">About Me</h2>
+<!-- <h2 style="font-family: Helvetica, Arial, sans-serif;">About Me</h2>
 
 <p style="font-family: Helvetica, Arial, sans-serif;">
 - Graduated BSIT at <strong>Laguna State Polytechnic University - Santa Cruz Campus</strong><br>
@@ -20,7 +20,7 @@ Information Technology graduate specializing in Web and Mobile Application Devel
 - Interested in <strong>Software/Web Development</strong> and <strong>UI/UX Design</strong>
 </p>
 
----
+--- -->
 
 <h2 style="font-family: Helvetica, Arial, sans-serif;">Skills</h2>
 
