@@ -1,3 +1,9 @@
+<style>
+    * {
+        font-family: Helvetica;
+    }
+</style>
+
 <h1 align="center" style="font-family: Times New Roman">Joshua Raphael Dueñas</h1>
 <h3 align="center">Aspiring Web & Mobile Application Developer | UI/UX Design Enthusiast</h3>
 
