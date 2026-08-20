@@ -1,31 +1,32 @@
-<style>
-    * {
-        font-family: Helvetica;
-    }
-</style>
-
-<h1 align="center" style="font-family: Times New Roman">Joshua Raphael Dueñas</h1>
-<h3 align="center">Aspiring Web & Mobile Application Developer | UI/UX Design Enthusiast</h3>
+<h1 align="center" style="font-family: Helvetica, Arial, sans-serif;">Joshua Raphael Dueñas</h1>
+<h3 align="center" style="font-family: Helvetica, Arial, sans-serif;">Aspiring Web & Mobile Application Developer | UI/UX Design Enthusiast</h3>
 
 ---
 
-## Professional Summary
+<h2 style="font-family: Helvetica, Arial, sans-serif;">Professional Summary</h2>
+
+<p style="font-family: Helvetica, Arial, sans-serif;">
 Information Technology graduate specializing in Web and Mobile Application Development, with hands-on experience in full-stack web development, mobile application development, and UI/UX design. Skilled in Python, JavaScript, Flutter, Flask, MySQL, and REST API development, with experience building practical web and mobile applications. Adaptable, detail-oriented, and eager to contribute technical skills while continuing to grow as a developer.
+</p>
 
 ---
 
-## About Me
-- Graduated BSIT at **Laguna State Polytechnic University - Santa Cruz Campus**
-- Currently learning **Python, JavaScript, PHP, Flask, HTML, CSS, SQL, Flutter, Dart**
-- Goal: Become a skilled **Full-Stack Web & Mobile Application Developer** or **Web Designer**
-- Interested in **Software/Web Development** and **UI/UX Design**
+<h2 style="font-family: Helvetica, Arial, sans-serif;">About Me</h2>
+
+<p style="font-family: Helvetica, Arial, sans-serif;">
+- Graduated BSIT at <strong>Laguna State Polytechnic University - Santa Cruz Campus</strong><br>
+- Currently learning <strong>Python, JavaScript, PHP, Flask, HTML, CSS, SQL, Flutter, Dart</strong><br>
+- Goal: Become a skilled <strong>Full-Stack Web & Mobile Application Developer</strong> or <strong>Web Designer</strong><br>
+- Interested in <strong>Software/Web Development</strong> and <strong>UI/UX Design</strong>
+</p>
 
 ---
 
-## Skills
+<h2 style="font-family: Helvetica, Arial, sans-serif;">Skills</h2>
 
-### Programming Languages
-<div style="flex: 1; min-width: 250px; margin: 10px;">
+<h3 style="font-family: Helvetica, Arial, sans-serif;">Programming Languages</h3>
+
+<div style="font-family: Helvetica, Arial, sans-serif; flex: 1; min-width: 250px; margin: 10px;">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white" />
@@ -35,24 +36,30 @@ Information Technology graduate specializing in Web and Mobile Application Devel
   <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white" />
 </div>
 
-### Frontend
-<div style="flex: 1; min-width: 250px; margin: 10px;">
+<h3 style="font-family: Helvetica, Arial, sans-serif;">Frontend</h3>
+
+<div style="font-family: Helvetica, Arial, sans-serif; flex: 1; min-width: 250px; margin: 10px;">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
 </div>
 
-### Frameworks & Engines
-<div style="flex: 1; min-width: 250px; margin: 10px;">
+<h3 style="font-family: Helvetica, Arial, sans-serif;">Frameworks & Engines</h3>
+
+<div style="font-family: Helvetica, Arial, sans-serif; flex: 1; min-width: 250px; margin: 10px;">
   <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=white" />
 </div>
 
-### Technical Skills
-Web Development | Full-Stack Development | Software Development | Mobile Application Development | REST API Development | Basic Game Development | Object-Oriented Programming | Agentic AI Development | Database Management | UI/UX Design | Responsive Web Design | Data Entry & Encoding
+<h3 style="font-family: Helvetica, Arial, sans-serif;">Technical Skills</h3>
 
-### Tools & Platforms
-<div style="flex: 1; min-width: 250px; margin: 10px;">
+<p style="font-family: Helvetica, Arial, sans-serif;">
+Web Development | Full-Stack Development | Software Development | Mobile Application Development | REST API Development | Basic Game Development | Object-Oriented Programming | Agentic AI Development | Database Management | UI/UX Design | Responsive Web Design | Data Entry & Encoding
+</p>
+
+<h3 style="font-family: Helvetica, Arial, sans-serif;">Tools & Platforms</h3>
+
+<div style="font-family: Helvetica, Arial, sans-serif; flex: 1; min-width: 250px; margin: 10px;">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=androidstudio&logoColor=white" />
@@ -69,8 +76,9 @@ Web Development | Full-Stack Development | Software Development | Mobile Applica
   <img src="https://img.shields.io/badge/-CapCut-000000?logo=capcut&logoColor=white" />
 </div>
 
-### Agentic AI Development Tools
-<div style="flex: 1; min-width: 250px; margin: 10px;">
+<h3 style="font-family: Helvetica, Arial, sans-serif;">Agentic AI Development Tools</h3>
+
+<div style="font-family: Helvetica, Arial, sans-serif; flex: 1; min-width: 250px; margin: 10px;">
   <img src="https://img.shields.io/badge/-Claude%20Code-D97757?logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white" />
@@ -79,8 +87,11 @@ Web Development | Full-Stack Development | Software Development | Mobile Applica
 
 ---
 
-## Connect with Me
-- **Email:** [joshuaduenas.work@gmail.com](mailto:joshuaduenas.work@gmail.com)
-- **LinkedIn:** [www.linkedin.com/in/joshua-duenas](https://www.linkedin.com/in/joshua-duenas)
-- **JobStreet:** [ph.jobstreet.com/profiles/joshuaraphael-dueas-txslHkPc80](https://ph.jobstreet.com/profiles/joshuaraphael-dueas-txslHkPc80)
-- **UpWork:** [www.upwork.com/freelancers/~01ba316ba2a2e17025?mp_source=share](https://www.upwork.com/freelancers/~01ba316ba2a2e17025?mp_source=share)
+<h2 style="font-family: Helvetica, Arial, sans-serif;">Connect with Me</h2>
+
+<p style="font-family: Helvetica, Arial, sans-serif;">
+<strong>Email:</strong> <a href="mailto:joshuaduenas.work@gmail.com">joshuaduenas.work@gmail.com</a><br>
+<strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/joshua-duenas">www.linkedin.com/in/joshua-duenas</a><br>
+<strong>JobStreet:</strong> <a href="https://ph.jobstreet.com/profiles/joshuaraphael-dueas-txslHkPc80">ph.jobstreet.com/profiles/joshuaraphael-dueas-txslHkPc80</a><br>
+<strong>UpWork:</strong> <a href="https://www.upwork.com/freelancers/~01ba316ba2a2e17025?mp_source=share">www.upwork.com/freelancers/~01ba316ba2a2e17025?mp_source=share</a>
+</p>
